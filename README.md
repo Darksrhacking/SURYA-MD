@@ -5,7 +5,7 @@
 <div class = "repo" align = "center">
  
 <a href = "#">
-<img src = "https://files.catbox.moe/dp8vs9.jpg"  width="300" height="200">
+<img src = "https://i.imgur.com/dBaSKWF.gif"  width="300" height="200">
 </img>
  <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=SURYA-MD+MD+WHATSAPP+BOT+MD" alt="">
@@ -16,7 +16,7 @@
 
 *_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
 
-  <a href="https://github.com/kingmalvn/LITE-MD/fork"><img title="LITE-MD" src="https://img.shields.io/badge/FORK-LITE-MDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/kingmalvn/SURYA-MD/fork"><img title="SURYA-MD" src="https://img.shields.io/badge/FORK-SURYA-MDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
@@ -44,7 +44,7 @@
    
   2..DEPLOY ON RENDER ⤵️
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Darksrhacking/SURYA-MD.git)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/kingmalvin/LITE-MD.git)
 
 
    3..DEPLOY ON GITHUB ⤵️

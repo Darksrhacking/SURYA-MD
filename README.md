@@ -1,4 +1,4 @@
-# # SURYA-MD
+# SURYA-MD
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 𝐒𝐢𝐦𝐩𝐥𝐞 𝐁𝐞𝐬𝐭 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐁𝐨𝐭 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 DARK SURYA 🌝💚
@@ -16,29 +16,22 @@
 
 *_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
 
-  <a href="https://github.com/Darksrhacking/SURYA-MD/fork"><img title="SURYA-MD" src="https://img.shields.io/badge/FORK-SURYA-MDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/kingmalvn/LITE-MD/fork"><img title="LITE-MD" src="https://img.shields.io/badge/FORK-LITE-MDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 🔑 Get Session ID (WhatsApp Pair Code Login)
 
-  </style>
-</head>
-<body>
-  <div style="text-align: center; margin-bottom: 20px; color: #666;">
-    <div style="font-weight: bold; animation: float 3s ease-in-out infinite; text-shadow: 2px 2px 4px rgba(0,0,0,0.2);">Created by DARK SURYA</div>
-  </div>
+> To deploy, generate your session ID from the link below:
+<p align="left">
+  <a href="https://malvin-pair-code-xzcb.onrender.com/?">
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge"/>
+  </a>
+</p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-  <button onclick="window.open(`/suryaqr`)" class="btn">QR Code</button>
-  <button onclick="window.open(`/pair`)" class="btn">Pair Code</button>
-  <button onclick="window.open(`https://github.com/Darksrhacking/SURYA-MD-V`)" class="btn">Bot Repo</button>
-  <button onclick="window.open(`https://github.com/Darksrhacking/SURYA-MD-PLUGINS`)" class="btn">Plugins</button>
-  <button onclick="window.open(`https://wa.me/994406616480`)" class="btn">Contact Me</button>
-  <button onclick="window.open(`https://chat.whatsapp.com/HlrTcIWDE562tXvXtM6iJk`)" class="btn">Wa Group</button>
-  <button onclick="window.open(`https://whatsapp.com/channel/0029Vb64JNKJf05UHKREBM1h`)" class="btn">Wa Channel</button>
-</body>
-</html>
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 2. **Obtain the Session ID**: After accessing the URL, you should see a session ID displayed. Copy this session ID.
 
@@ -46,7 +39,7 @@
    
   1..DEPLOY ON HEROKU ⤵️
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fkingmalvn%2FSURYA-MD) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fkingmalvn%2FLITE-MD) 
    
    
   2..DEPLOY ON RENDER ⤵️
@@ -110,8 +103,7 @@ jobs:
 - Creater and Owner Of SURYA-MD
 
 > SURYA-MD Helper
-- [Dark Surya](https://github.com/Darksrhacking)
+- [DARK SURYA](https://github.com/Darksrhacking)
 - For helping in bot plugin files.
 ---
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>-MD
-ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ SURYA-MD
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
